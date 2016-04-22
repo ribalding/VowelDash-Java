@@ -12,4 +12,12 @@ public class VowelDash {
     input = input.replace("u", "-");
     return input;
   }
+
+  public Boolean compareAnswers(String guess, String answer){
+    if (guess.equals(answer)){
+      return true;
+    } else {
+      return false;
+    }
+  }
 }

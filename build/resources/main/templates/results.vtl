@@ -1,0 +1,13 @@
+<div class="jumbotron">
+  <h2>Guess the Phrase</h2>
+</div>
+<h3>Player 2 - Here is your clue: $clue</h3>
+
+<form action="/answer">
+  <div class="form-group">
+    <label for="quizInput">Can you guess the phrase?</label>
+    <input type="text" class="form-control" id="quizInput" name="quizInput">
+  </div>
+  <input type="hidden" name="answer" value="$answer">
+  <button type="submit" class="btn btn-primary">Go</button>
+</form>
