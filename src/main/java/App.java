@@ -14,9 +14,9 @@ public class App{
       return new ModelAndView(model, layout);
     }, new VelocityTemplateEngine());
 
-    get("/results", (request,response) ->{
+    get("/quiz", (request,response) ->{
       HashMap model = new HashMap();
-      model.put("template", "templates/results.vtl");
+      model.put("template", "templates/quiz.vtl");
       String phrase = request.queryParams("inputText");
       VowelDash newVowelDash = new VowelDash();
       String newPhrase = newVowelDash.convertVowels(phrase);

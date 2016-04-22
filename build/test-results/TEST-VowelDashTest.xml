@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="VowelDashTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2016-04-22T18:23:50" hostname="epicodus-93.local" time="0.002">
+<testsuite name="VowelDashTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2016-04-22T20:35:58" hostname="epicodus-93.local" time="0.004">
   <properties/>
-  <testcase name="convertVowels_wordWithOneVowel_replacedString" classname="VowelDashTest" time="0.001"/>
+  <testcase name="convertVowels_wordWithOneVowel_replacedString" classname="VowelDashTest" time="0.0"/>
   <testcase name="convertVowels_wordWithMultipleVowels_replacedString" classname="VowelDashTest" time="0.0"/>
-  <testcase name="compareAnswers_noMatch_false" classname="VowelDashTest" time="0.0"/>
-  <testcase name="convertVowels_wordWithNoVowels_sameString" classname="VowelDashTest" time="0.0"/>
+  <testcase name="compareAnswers_noMatch_false" classname="VowelDashTest" time="0.001"/>
+  <testcase name="convertVowels_wordWithNoVowels_sameString" classname="VowelDashTest" time="0.001"/>
   <testcase name="compareAnswers_match_true" classname="VowelDashTest" time="0.0"/>
   <testcase name="compareAnswers_matchMultipleWords_true" classname="VowelDashTest" time="0.001"/>
   <testcase name="convertVowels_multipleWordsWithVowels_replacedString" classname="VowelDashTest" time="0.0"/>
