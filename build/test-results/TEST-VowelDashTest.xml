@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VowelDashTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-04-22T15:53:55" hostname="Ribalding" time="0.003">
+  <properties/>
+  <testcase name="convertVowels_wordWithOneVowel_replacedString" classname="VowelDashTest" time="0.003"/>
+  <testcase name="converVowels_wordWithMultipleVowels_replacedString" classname="VowelDashTest" time="0.0"/>
+  <testcase name="converVowels_multipleWordsWithVowels_replacedString" classname="VowelDashTest" time="0.0"/>
+  <testcase name="convertVowels_wordWithNoVowels_sameString" classname="VowelDashTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
