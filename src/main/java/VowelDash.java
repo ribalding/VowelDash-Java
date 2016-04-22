@@ -1,6 +1,4 @@
 public class VowelDash {
-  public static void main(String[] args){}
-
   public String convertVowels(String input){
     input = input.replace("A", "-");
     input = input.replace("a", "-");
