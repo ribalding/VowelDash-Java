@@ -1,0 +1,23 @@
+body{
+  background-color: #B00125;
+  font-family: fantasy;
+}
+
+.container{
+  background-color: #5AB1FF;
+  height: 100%;
+  padding: 50px;
+  margin-top: 80px;
+  border-radius: 3px;
+  width: 800px;
+}
+
+.jumbotron{
+  width: 400px;
+  text-align: center;
+  font-size: 200%;
+}
+
+.clueStyle{
+  color: #e5e5e5;
+}
