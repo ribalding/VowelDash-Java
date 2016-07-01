@@ -1,4 +1,4 @@
-# Vowel Game
+# VowelDash
 
 #### A practice webpage for Epicodus, 4/22/2016
 
@@ -20,15 +20,15 @@ _Go to your web browser and navigate to http://localhost:4567_
 
 ## Technologies Used
 
-_Java_
-_Spark_
-_Gradle_
-_Velocity_
-_JUnit_
-_FluentLenium_
-_HTML_
-_CSS_
-_Bootstrap_
+* Java
+* Spark
+* Gradle
+* Velocity
+* JUnit
+* FluentLenium
+* HTML
+* CSS
+* Bootstrap
 
 ## Legal
 
